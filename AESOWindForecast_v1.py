@@ -110,6 +110,9 @@ def get_st_wind_data(WIND_FORECAST_URL):
     
     return (result)
 
-get_st_wind_data(LT_WIND_FORECAST_URL)
 
+
+get_st_wind_data(ST_WIND_FORECAST_URL)
+
+get_st_wind_data(LT_WIND_FORECAST_URL)
 #-----------------------------------------------------------------------------------------------------------------------------------------------------------
